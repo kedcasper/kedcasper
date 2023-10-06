@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kedcasper
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on beginner Python and SQL projects to practice and learn!
+- 💞️ I’m looking to collaborate on Python and SQL projects to practice and learn!
 - 📫 Reach me via email @kedcasper21@gmail.com
 
 <!---
